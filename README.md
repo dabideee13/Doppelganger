@@ -1,5 +1,5 @@
-# DOPPELGANGER
 ![](screenshots/doppelganger.png)
+# DOPPELGANGER
 Doppelganger is an automation script written in python designed to crack WEAK DEFAULT PLDT and GLOBE wifi passwords using bruteforce, deauthenticate clients from a wireless network, and launch an Evil Twin Attack. The bruteforce attack is implemented by piping the output of crunch, a wordlist generator, to aircrack-ng which is a tool for cracking WEP and WPA/WPA2-PSK.
 
 PLEASE NOTE: This has only been tested on linux. I am currently using a debian-based linux distribution.
