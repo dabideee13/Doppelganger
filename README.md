@@ -29,9 +29,10 @@ By selecting a target, the script will deauthenticate the selected target and cl
 
 
 
-# THIS SCRIPT IS CREATED FOR EDUCATIONAL PURPOSE ONLY
-This is just a proof of concept. I am not reliable if you're gonna use this script for malicious purposes
 
 # PLEASE DO NOTE
 You need a wireless adapter that is capable of monitor mode and packet injection in order for the script to work
 The 000-default.conf file is my apache configuration. I used this configuration to redirect devices to my captive portal when the evil twin attack option is selected.
+
+# THIS SCRIPT IS CREATED FOR EDUCATIONAL PURPOSE ONLY
+This is just a proof of concept. I am not reliable if you're gonna use this script for malicious purposes
